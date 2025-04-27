@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Selenium
+webdriver_log/
+
+# Pytest
+.cache/
+*.pytest_cache/
